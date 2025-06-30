@@ -297,6 +297,6 @@ uv sync
 
 ## License
 
-This project is licensed un the MIT License.
+This project is licensed under the MIT License.
 
 By submitting a pull request, you agree that any contributions will be licensed under the MIT License, unless explicitly stated otherwise.
